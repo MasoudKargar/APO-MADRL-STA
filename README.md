@@ -1,4 +1,4 @@
 # APO-MADRL-STA
-Adaptive Portfolio Optimization with Multi-Agent Deep Reinforcement Learning and Short-Term Performance Analysis
+Portfolio Optimization with Deep Reinforcement Learning
 
 © 2025 Masoud Kargar
